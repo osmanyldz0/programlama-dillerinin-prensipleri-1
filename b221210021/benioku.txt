@@ -1,0 +1,1 @@
+derlemeden sonra bir tuşa basıp enter'e basınca işlemler başlar
